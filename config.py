@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NOORXMUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "VeenaMusic_ibot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Noor")
 # ---------------------------------------------------------
@@ -69,9 +69,9 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THUNDERDEVS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+pnDJxCG5VVphMTVl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+-GV2WLaCn9gwZWM1")
 SOURCE = getenv("SOURCE", "https://t.me/THUNDERDEVS")
-CHAT = getenv("CHAT", "https://t.me/+pnDJxCG5VVphMTVl")
+CHAT = getenv("CHAT", "https://t.me/+-GV2WLaCn9gwZWM1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 

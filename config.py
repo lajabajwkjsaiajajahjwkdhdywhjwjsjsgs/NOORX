@@ -60,6 +60,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # ----------------------------------------------------------------
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
+API_KEY = getenv("API_KEY", '30DxNexGenBots938b57') # youtube song api ke
 # -------------------------------------------------------------------
 # --------------------------------------------------------------------
 # --------------------------------------------------------------------
